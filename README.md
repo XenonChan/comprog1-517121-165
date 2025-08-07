@@ -22,11 +22,24 @@ Everything in COMPROG1(517121-165)
     </tbody>
 </table>
 
-### สภาพกูตอนทำโจทย์ในGrader:
-<img src="https://media1.tenor.com/m/9oYB53mlI1sAAAAd/spiritualjuju.gif" height=300 width=300 />
-
-### สภาพกูตอนเข้าเลค/แลป/ควิซ:
-<img src="https://s4.anilist.co/file/anilistcdn/character/large/48093.jpg" height=300 width=300 />
+<table>
+    <thead>
+        <th align="center">สภาพกูตอนทำโจทย์ในGrader</th>
+        <th align="center">สภาพกูตอนเข้าเลค/แลป/ควิซ</th>
+    </thead>
+    <tbody>
+        <td>
+            <p align="center">
+                <img src="https://media1.tenor.com/m/9oYB53mlI1sAAAAd/spiritualjuju.gif" height=300 width=300 />
+            </p>
+        </td>
+        <td>
+            <p align="center">
+                <img src="https://s4.anilist.co/file/anilistcdn/character/large/48093.jpg" height=200 width=300 />
+            </p>
+        </td>
+    </tbody>
+</table>
 
  อยากให้ดูโค้ดของหลายๆคนเพื่อดูวิธีการแก้ปัญาหาในรูปแบบต่างๆ ไม่ใช่ดูแค่รีโพนี้นะ จุ๊บๆ :3
 
