@@ -23,7 +23,7 @@ Everything in COMPROG1(517121-165)
 </table>
 
 ### สภาพกูตอนทำโจทย์ในGrader:
-<img src="https://media.tenor.com/8K-11cIclxkAAAAj/unt-unt-yellow-emoji.gif" height=300 width=300 />
+<img src="https://media1.tenor.com/m/9oYB53mlI1sAAAAd/spiritualjuju.gif" height=300 width=300 />
 
 ## อยากให้ดูโค้ดของหลายๆคนเพื่อดูวิธีการแก้ปัญาหาในรูปแบบต่างๆ ไม่ใช่ดูแค่รีโพนี้นะ จุ๊บๆ :3
 
