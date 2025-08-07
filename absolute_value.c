@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 void main() {
-    int x;https://rproxy.cp.su.ac.th:8451/header.php#
+    int x;
     scanf("%d", &x);
     if (x >= 0) {
         printf("%d", x);
