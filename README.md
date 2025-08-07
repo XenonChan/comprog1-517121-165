@@ -22,6 +22,9 @@ Everything in COMPROG1(517121-165)
     </tbody>
 </table>
 
-> อะไรว่ะ
-> ทำไมกูไม่ผ่านพรีแคล อ้ากกกกกกกกกกกก
+### สภาพกูตอนทำโจทย์ในGrader:
+<img src="https://media.tenor.com/8K-11cIclxkAAAAj/unt-unt-yellow-emoji.gif" height=300 width=300 />
+
+## อยากให้ดูโค้ดของหลายๆคนเพื่อดูวิธีการแก้ปัญาหาในรูปแบบต่างๆ ไม่ใช่ดูแค่รีโพนี้นะ จุ๊บๆ :3
+
 ## โ ด น
