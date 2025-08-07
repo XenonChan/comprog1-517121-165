@@ -35,7 +35,7 @@ Everything in COMPROG1(517121-165)
         </td>
         <td>
             <p align="center">
-                <img src="https://s4.anilist.co/file/anilistcdn/character/large/48093.jpg" height=200 width=300 />
+                <img src="https://s4.anilist.co/file/anilistcdn/character/large/48093.jpg" />
             </p>
         </td>
     </tbody>
