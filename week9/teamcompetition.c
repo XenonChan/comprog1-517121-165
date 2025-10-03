@@ -5,14 +5,10 @@ int main() {
     scanf("%d", &n);
     int score_a[n], score_b[n];
     for(int i=0;i<n;i++) {
-        int x;
-        scanf("%d", &x);
-        score_a[i] = x;
+        scanf("%d", &score_a[i]);
     }
     for(int i=0;i<n;i++) {
-        int x;
-        scanf("%d", &x);
-        score_b[i] = x;
+        scanf("%d", &score_b[i]);
     }
     for(int i=0;i<n;i++) {
         if (score_a[i] > score_b[i]) {
