@@ -13,7 +13,7 @@
         </td>
         <td>
             <p align="center">
-                <img src="https://i.pinimg.com/1200x/87/b3/55/87b355814576450e76f27450e50caea7.jpg" />
+                <img src="https://i.pinimg.com/1200x/87/b3/55/87b355814576450e76f27450e50caea7.jpg" height=300 width=300/>
             </p>
         </td>
     </tbody>
