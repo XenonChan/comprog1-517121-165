@@ -17,7 +17,7 @@
 รับจำนวนมา1จำนวน และ ทำการแสดงค่าที่ สลับตำแหน่งกัน (แยกหลักมาทีล่ะตัวเริ่มจากแสดงหลักหน่วยก่อนจนกว่าจะครบ)
 
 ### คอมในห้องสอบชั้น 3
-<img src="https://tds-images.thedailystar.net/sites/default/files/styles/very_big_201/public/feature/images/potato_pc.jpg" width="300px" height="300px">
+<img src="https://images.steamusercontent.com/ugc/876372184783387877/BA8185B297E3522BDFFEA89319752852E54FEB63/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="300px" height="300px">
 
 ### Codeที่เขียน
 <img src="https://experiencelife.lifetime.life/wp-content/uploads/2021/02/Talking-Trash-e1746736243231.jpg" width="300px" height="300px">
