@@ -20,6 +20,6 @@
 <img src="https://images.steamusercontent.com/ugc/876372184783387877/BA8185B297E3522BDFFEA89319752852E54FEB63/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="300px" height="300px">
 
 ### Codeที่เขียน
-<img src="https://experiencelife.lifetime.life/wp-content/uploads/2021/02/Talking-Trash-e1746736243231.jpg" width="300px" height="300px">
+<img src="https://media1.tenor.com/m/gC8UecjTOgYAAAAd/trash-vs-garbage-meme.gif" width="300px" height="300px">
 
 > นอกจากโค้ดเหม็นแล้วกลิ่นตัวกูเหม็นกว่า
